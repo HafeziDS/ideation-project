@@ -17,10 +17,11 @@ One of the biggest challenges in studying cracks in materials is finding the rig
 
 ### Solution: FCG-H-INTX1
 
+[![Watch the Video](https://img.youtube.com/vi/0jKlsJri6-M/0.jpg)](https://youtu.be/0jKlsJri6-M?feature=shared)
+
 **FCG-H-INTX1** is a new software designed to help researchers study how cracks grow in metals. It’s easier to use, more affordable, and more accessible than other tools on the market. This software helps researchers understand how materials behave, how cracks form and spread, and how stress affects them. It's an affordable solution for schools, research labs, and industries.
 
 For more information, visit [nero-intx.com](https://neuro-intx.com/).
-
 
 ---
 
