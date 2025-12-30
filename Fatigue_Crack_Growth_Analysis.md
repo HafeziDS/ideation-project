@@ -2,7 +2,7 @@
 
 ## Hadi Hafezi, Ph.D.
 
-You can follow me on X: [HafeziPhD](https://x.com/HafeziPhD)
+You can follow me on Linkedin: [HafeziPhD](https://www.linkedin.com/in/hafezi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSpc3gmHNQoKHXoCnoJXT2g%3D%3D)
 
 
 ### About Me:
@@ -48,7 +48,7 @@ There are existing companies that offer tools for studying crack growth, but mos
 | ANSYS             | Enterprise| ANSYS Mechanical (FEA) | Engineers, Researchers| High cost, complex interface |
 | Abaqus            | Enterprise| Abaqus FEA Software   | Engineers, Researchers| Expensive, steep learning curve |
 | COMSOL            | Enterprise| COMSOL Multiphysics   | Engineers, Universities| Lacks focus on fatigue crack modeling |
-| FCG-H-INTX1       | Startup   | Fatigue Crack Growth Tool | Researchers, Students| Affordable, user-friendly, focused on crack growth analysis |
+| Neuro-intx.com      | Startup   | Fatigue Crack Growth Tool (FCG-H-INTX1 ) | Researchers, Students| Affordable, user-friendly, focused on crack growth analysis |
 
 ---
 
